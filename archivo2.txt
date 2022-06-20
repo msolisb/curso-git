@@ -1,5 +1,0 @@
-Otro archivo para aprender Git
-
-Modificación
-
-Otra Modificación
